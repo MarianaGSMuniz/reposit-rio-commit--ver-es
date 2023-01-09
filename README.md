@@ -7,4 +7,4 @@ Descreva qual objetivo deste projeto.
 
 #Este projeto é apenas um curso da Alura sobre : Git,GitHub, Commit´s e versões#
 
-* Os códigos que contém neste projeto, são apenas para reforçar o aprendizado com Git,GitHub, Commit´s e versões *
+* Os códigos que contém neste projeto, são apenas para reforçar o aprendizado com Git,GitHub, Commit´s e versões 
