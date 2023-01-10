@@ -11,3 +11,5 @@ Este projeto é apenas um curso da Alura sobre : Git,GitHub, Commit´s e versõe
 *Acessar o VS Code por meio do GitHub;
 
 *Entender como verificar o histórico de commits realizados.
+
+*Crie mensagens de commits com clareza para que outras pessoas possam entender o projeto.
